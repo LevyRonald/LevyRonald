@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Levy Ronald</h1>
 <h3 align="center">A frontend developer</h3>
 
-- 🌱 I’m currently learning **Frontend, Design and Video edition**
+- 🌱 I’m currently learning: **Frontend, Design and Video edition**
 
-- 👨‍💻 All of my projects are available at [https://github.com/LevyRonald](https://github.com/LevyRonald)
+- 👨‍💻 All of my projects are available at: [https://github.com/LevyRonald](https://github.com/LevyRonald)
 
-- 📫 How to reach me **levyronald3@gmail.com**
+- 📫 How to reach me: **levyronald3@gmail.com**
 
-- ⚡ Fun fact **I love ducks 🦆**
+- ⚡ Fun fact: **I love ducks 🦆**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
