@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Frontend, Design and Video edition**
 
-- 👨‍💻 All of my projects are available at [github.com/LevyRonald](https:/github.com/LevyRonald)
+- 👨‍💻 All of my projects are available at [https:/github.com/LevyRonald](https:/github.com/LevyRonald)
 
 - 📫 How to reach me **levyronald3@gmail.com**
 
