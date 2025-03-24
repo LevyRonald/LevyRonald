@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Levy Ronald</h1>
 <h3 align="center">A FullStack developer</h3>
 
-- 🌱 I’m currently learning **Frontend|Backend, Design and Video edition**
+- 🌱 I’m currently learning **Frontend|Backend**
 
 - 👨‍💻 All of my projects are available at [https://github.com/LevyRonald](https://github.com/LevyRonald)
 
@@ -27,7 +27,7 @@
 ##
     
 <div>
-  <a href="https://instagram.com/@ronaldzzk_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/@levyronaldz" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:levyronald3@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/levy-ronald-578a75210/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   
